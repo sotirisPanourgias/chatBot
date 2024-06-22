@@ -1,2 +1,2 @@
-# chatBox
-chatBox Wit.ai
+# chatBot
+chatBot Wit.ai
