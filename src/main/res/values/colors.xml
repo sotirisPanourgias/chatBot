@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+        <!-- Define your color values here -->
+        <color name="primary">#6200EE</color> <!-- Example primary color -->
+        <color name="primaryVariant">#3700B3</color> <!-- Example primary variant color -->
+        <color name="onPrimary">#FFFFFF</color> <!-- Example on primary color -->
+        <color name="secondary">#03DAC6</color> <!-- Example secondary color -->
+        <color name="secondaryVariant">#018786</color> <!-- Example secondary variant color -->
+        <color name="onSecondary">#000000</color> <!-- Example on secondary color -->
+</resources>
+
